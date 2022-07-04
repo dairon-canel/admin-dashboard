@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# ADMIN DASHBOARD
 
 A frontend admin dashboard for any type of bussines. Built from the knowledge gained from the JSMastery tutorials using React, TailwindCss and Syncfusion.
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
